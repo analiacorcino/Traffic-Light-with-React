@@ -1,12 +1,12 @@
+.brillo {
+    box-shadow: -1px -1px 22px 21px rgba(233, 225, 12, 0.746) !important;
+}
 
-/* 
+.no-shadow {
+    box-shadow: -1px -1px 52px 31px rgba(0, 0, 0, 0.3) !important;
+}
 
-    You can write your own styles here...
-    
-    
-    ...Or you can use the import command to include 
-    other sylesheets into your bunde as well, e.j:
-    
-    import 'relative/path/to/stylesheet.scss';
-
-*/
+.caja {
+    width: 100px;
+    height: 100px;
+}
